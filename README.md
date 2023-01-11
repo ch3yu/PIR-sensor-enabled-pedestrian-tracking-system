@@ -17,4 +17,4 @@ In this GitHub page, we have a sensor node building manual, bill of materials, d
 - Design files:
   - Pedestrian tracking system: A compressed folder that contains the Gerber files for the Arduino shield.
   - Cone and tube stl files: The stl files that can be sent to a 3D printing manufacturer to print out the cone and the tube.
-- Pedestrian tracking system code: The code that operates to document direction of travel of passengers.
+- pedestrian_tracking_system_3: The code that operates to document direction of travel of passengers.
