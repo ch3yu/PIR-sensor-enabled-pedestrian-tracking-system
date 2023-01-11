@@ -1,6 +1,6 @@
 # PIR-sensor-enabled-pedestrian-tracking-system
 
-**:closed_book:Introduction**
+##### **:closed_book:Introduction**
 
 Passive infrared (PIR) sensors are motion sensors that detect IR stimuli emitted by heating bodies and convert them into electrical outputs. They are used in a variety of applications, such as home automation, surveillance systems, and human trajectory analysis since they are low-cost, reliable and anonymous compared to other sensors like camera and Bluetooth tags, which are relatively expensive and privacy-invasive. 
 
@@ -10,7 +10,7 @@ To enable more people to benefit from analog PIR sensors, we designed a sensing 
 
 In this GitHub page, we have a sensor node building manual, bill of materials, design files, and code in different branches. Please refer to the index section for further information for the purposes of each file.
 
-**:scroll:Index**
+##### **:scroll:Index**
 
 - Pedestrian tracking system sensing node assembling manual: A step-by-step instruction that goes through the process of building a sensing node pivoting around an analog PIR sensor.
 - Bill of materials: A list that includes all the materials needed to build a sensing node.
